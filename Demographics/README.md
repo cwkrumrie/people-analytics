@@ -1,4 +1,4 @@
-# 📊 Demographics & Pay Equity Analysis
+# Demographics & Pay Equity Analysis
 
 This project investigates workforce demographics, tenure, and compensation patterns using real-world HR data. The analysis focuses on identifying potential gender-based disparities in pay and representation across departments and salary bands.
 
@@ -6,7 +6,7 @@ By combining visual analysis with linear regression modeling, this project highl
 
 ---
 
-## 🎯 Objective
+## Objective
 
 - Explore the relationship between **gender, salary, and tenure**
 - Visualize **gender representation** across departments and salary bands
@@ -15,7 +15,7 @@ By combining visual analysis with linear regression modeling, this project highl
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **Python** (pandas, matplotlib, seaborn, scikit-learn)
 - **Jupyter Notebook** (VS Code)
@@ -23,7 +23,7 @@ By combining visual analysis with linear regression modeling, this project highl
 
 ---
 
-## 📁 Dataset Summary
+## Dataset Summary
 
 | Field            | Description                          |
 |------------------|--------------------------------------|
@@ -37,24 +37,24 @@ Data was pulled using Oracle HCM reporting and cleaned in Excel before analysis.
 
 ---
 
-## 📊 Key Analyses
+## Key Analyses
 
-### 👥 Gender Representation by Department
+### Gender Representation by Department
 - Departments like **Fire Rescue** and **Roads & Drainage** show male dominance
 - **Health & Human Services** and **Court Services** lean female
 
-### 💰 Gender Distribution Across Salary Bands
+### Gender Distribution Across Salary Bands
 - Male employees are overrepresented in the **$100K+** salary band
 - Mixed representation exists in mid-range salaries ($40K–$70K)
 
-### 📈 Linear Regression: Salary Prediction
+### Linear Regression: Salary Prediction
 - Used `Tenure_Years` and encoded `Gender` as predictors
 - Found that **being male is associated with a ~$6,736 salary increase**, holding tenure constant
 - Model explains ~26% of salary variance (R² = 0.26)
 
 ---
 
-## 📋 Regression Summary
+## Regression Summary
 
 | Component           | Value        |
 |---------------------|--------------|
@@ -66,7 +66,7 @@ Data was pulled using Oracle HCM reporting and cleaned in Excel before analysis.
 
 ---
 
-## ✅ Key Insights
+## Key Insights
 
 - A measurable **gender-based pay gap** exists, even after controlling for tenure.
 - **Departmental imbalances** suggest limited representation in certain job families.
@@ -74,7 +74,7 @@ Data was pulled using Oracle HCM reporting and cleaned in Excel before analysis.
 
 ---
 
-## 💡 Recommendations
+## Recommendations
 
 - Conduct a full **pay equity audit** controlling for role, performance, and department.
 - Expand internal analysis to include **promotion velocity**, **hiring trends**, and **managerial roles**.
@@ -82,7 +82,7 @@ Data was pulled using Oracle HCM reporting and cleaned in Excel before analysis.
 
 ---
 
-## 📎 Files
+## Files
 
 - `Demographics_Analysis.ipynb`: Full notebook with code, charts, and model
 - `gender_salary_distribution.png`: Chart showing gender by salary band
