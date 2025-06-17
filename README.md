@@ -34,7 +34,7 @@ This portfolio presents case studies in workforce analytics, exploring key trend
 
 ---
 
-### 3. [📘 Employee Engagement Dashboard (Tableau)](./Experience (Tableau))/README.md)
+### 3. [📘 Employee Engagement Dashboard (Tableau)](./Tableau/README.md)
 
 **Focus**: Visual storytelling of employee engagement, satisfaction, and training across divisions.
 
