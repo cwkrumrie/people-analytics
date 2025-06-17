@@ -55,6 +55,7 @@ This portfolio presents case studies in workforce analytics, exploring key trend
 - **Jupyter Notebooks** (developed in VS Code)
 - **Excel & PowerQuery**: for initial data wrangling and cleanup
 - **Oracle Reporting**: as the source of raw HRIS data
+- **Tableau Public**: for dashboard design and visualization
 - **Markdown**: for documentation and storytelling
 
 ---
