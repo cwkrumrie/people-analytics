@@ -65,7 +65,6 @@ This dashboard illustrates how employee engagement, satisfaction, and training c
 ## 🔗 View the Dashboard
 
 **[View on Tableau Public](https://public.tableau.com/app/profile/c.krumrie/viz/PeopleExperienceInsights/Dashboard1)**  
-_(Replace with your actual dashboard link)_
 
 ---
 
