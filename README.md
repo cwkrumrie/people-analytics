@@ -34,6 +34,21 @@ This portfolio presents case studies in workforce analytics, exploring key trend
 
 ---
 
+### 3. [📘 Employee Engagement Dashboard (Tableau)](https://public.tableau.com/app/profile/YOURUSERNAME/viz/DASHBOARDNAME/YourSheet)
+
+**Focus**: Visual storytelling of employee engagement, satisfaction, and training across divisions.
+
+**Highlights**:
+- Merged public dataset from Kaggle using Python to create inner joins, producing a joined dataset.
+- Built a high-contrast, executive-ready Tableau dashboard
+- Summarized key metrics using KPI tiles (Engagement, Satisfaction Leader, % Trained)
+- Developed a division-level heatmap for Engagement, Satisfaction, and Work-Life Balance
+- Designed for accessibility and readability by non-expert audiences
+
+📎 _Includes:_ Published Tableau dashboard, embedded in portfolio with hover tooltips, high-contrast design, and clean layout.
+
+---
+
 ## Tools & Technologies
 
 - **Python**: pandas, matplotlib, seaborn, scikit-learn
