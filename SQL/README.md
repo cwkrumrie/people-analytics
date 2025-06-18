@@ -41,13 +41,20 @@ This project analyzes academic performance and engagement data from The Open Uni
 ## File Structure
 
 ├── SQL/
-│ ├── *.csv # Raw data files
-│ ├── output_gender_scores.csv # Sample query result
-│ └── open_university.db # Generated SQLite database
-├── load_data.py # Loads CSVs into SQLite tables
-├── query.py # Sample SQL query for average scores
-├── interactive_plot.ipynb # Main notebook with visualizations & models
-└── README.md # Project overview
+
+│   ├── *.csv                 
+
+│   ├── output_gender_scores.csv  
+
+│   └── open_university.db    
+
+├── load_data.py              
+
+├── query.py                 
+
+├── interactive_plot.ipynb    
+
+└── README.md                 
 
 ---
 
