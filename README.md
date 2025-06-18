@@ -49,9 +49,25 @@ This portfolio presents case studies in workforce analytics, exploring key trend
 
 ---
 
+### 4. [🧮 Open University Student Performance (SQL + Python)](./SQL/README.md)
+
+**Focus**: SQL querying, statistical modeling, and interactive visualization using open educational data.
+
+**Highlights**:
+- Used Python to load and query relational data from 7 CSVs (Kaggle Open University dataset)
+- Created an SQLite database and wrote queries to explore student performance by gender, age, and disability
+- Used pandas and seaborn to visualize assessment scores and engagement trends
+- Built logistic regression classifiers to predict pass/fail outcomes based on demographic factors
+- Designed interactive visualizations with `ipywidgets` and Jupyter Notebook
+
+📎 _Includes:_ Jupyter notebook, Python scripts for SQL loading and querying, and plots of analysis results.
+
+---
+
 ## Tools & Technologies
 
 - **Python**: pandas, matplotlib, seaborn, scikit-learn
+- **SQLite & SQL**: via pandas and sqlite3
 - **Jupyter Notebooks** (developed in VS Code)
 - **Excel & PowerQuery**: for initial data wrangling and cleanup
 - **Oracle Reporting**: as the source of raw HRIS data
@@ -65,6 +81,7 @@ This portfolio presents case studies in workforce analytics, exploring key trend
 - People analytics & HR data strategy
 - Workforce equity & compensation modeling
 - Regression analysis & interpretation
+- SQL data querying & relational joins 
 - Data visualization for executive storytelling
 - End-to-end analytics workflow (ETL to insight)
 
