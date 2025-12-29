@@ -40,8 +40,16 @@ The final dataset included 350+ employee termination records with key variables 
 
 During this analysis, I used Python and real-world HR data to investigate employee terminations across a large public organization during FY23–24. By visualizing tenure distributions, comparing voluntary and involuntary exit patterns, and segmenting departures by department, I uncovered critical trends — including a high rate of early-stage turnover in frontline roles and long-tenure exits from technical departments. These findings support data-driven decisions around onboarding, training, and manager development, and demonstrate how people analytics can drive actionable strategy across the employee lifecycle.
 
+## Files
+
+- `Termination_Analysis.ipynb`: Full notebook with code, charts, and model
+- `RAW_Termination_FY23-24.xlsx`: Raw pulled data
+- `CLEANED_Termination_FY23-24.xlsx`: Cleaned data
+- `Termination_Analysis.pdf`: PDF of notebook with code, markdown, and visualizations
+
 ## Author
 
 Charity Krumrie  
 [LinkedIn](https://www.linkedin.com/in/ckrumrie/)  
 [Email](mailto:cwkrumrie@gmail.com)  
+
